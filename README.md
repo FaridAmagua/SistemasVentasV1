@@ -7,3 +7,4 @@ Conector connection:
 ![image](https://github.com/FaridAmagua/SistemasVentasV1/assets/98462673/4b3e8c5f-df9c-46a6-95db-2d6daafbba2f)
 ![image](https://github.com/FaridAmagua/SistemasVentasV1/assets/98462673/770eeaad-a41e-486f-b4bb-aac1f4abdaaf)
 
+![Diseño de base en access](https://github.com/FaridAmagua/SistemasVentasV1/assets/98462673/0f3a4e8d-3b62-490f-b318-47a8502483f5)
